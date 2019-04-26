@@ -1,0 +1,41 @@
+/* 简写css */
+
+.cur {
+	cursor: pointer;
+}
+
+.flex {
+	display: flex;
+}
+
+.jc-center {
+	justify-content: center;
+}
+
+.al-center {
+	align-items: center;
+}
+.jc-between{
+	justify-content: space-between;
+}
+
+.els {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.hide{
+		display: none!important;
+	}
+.show{
+	display: block!important;
+}
+.red{
+	color: red
+}
+
+.ft-bold{
+	font-weight: bold;
+}
+
